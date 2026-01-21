@@ -1,4 +1,4 @@
-### Data Analytics | Excel | Power BI | SQL | Data storytelling | Open to New Opportunities 
+## Data Analytics | Excel | Power BI | SQL | Data storytelling | Open to New Opportunities 
 
 ---
 
