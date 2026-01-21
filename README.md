@@ -42,8 +42,6 @@ I am a **BE Industrial Engineering & Management student (2022–2025)** with a s
 * Implemented slicers, filters, and KPI visuals for dynamic reporting.
 * Improved reporting efficiency and enabled data-driven decision-making.
 
-📁 Folder: `power-bi-sales-dashboard/`
-
 ---
 
 ### 2️⃣ Real-Time Web-Enabled Inventory Management using RFID
@@ -55,8 +53,7 @@ I am a **BE Industrial Engineering & Management student (2022–2025)** with a s
 * Designed an RFID-based smart inventory system with secure access control.
 * Integrated ESP32 hardware with a web interface for real-time monitoring.
 * Achieved ~95% inventory accuracy and reduced manual effort by ~50%.
-
-
+  
 ---
 
 ### 3️⃣ Simulation of Probabilistic Networks using Arena
@@ -68,8 +65,6 @@ I am a **BE Industrial Engineering & Management student (2022–2025)** with a s
 * Used Beta distributions to model uncertainty in project scheduling.
 * Identified critical paths and improved schedule reliability.
 * Reduced project time estimation variance by ~30–40%.
-
-
 
 ---
 
@@ -113,6 +108,3 @@ I am a **BE Industrial Engineering & Management student (2022–2025)** with a s
 * **LinkedIn:** [https://linkedin.com/in/sonu-kumar18](https://linkedin.com/in/sonu-kumar18)
 * **GitHub:** [https://github.com/sonukumar018](https://github.com/sonukumar018)
 
----
-
-⭐ *If you find my work interesting, feel free to star the repository or connect with me!*
