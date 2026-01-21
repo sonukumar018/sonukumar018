@@ -1,7 +1,5 @@
 ### Data Analytics & Industrial Engineering Portfolio
 
-Welcome to my GitHub portfolio repository. This repository serves as a central showcase of my resume, projects, and technical skills in **Data Analytics, Supply Chain, and Industrial Engineering**.
-
 ---
 
 ## 📌 About Me
