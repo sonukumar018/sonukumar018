@@ -1,4 +1,4 @@
-### Data Analytics & Industrial Engineering Portfolio
+###Data Analytics | Excel | Power BI | SQL | Data storytelling | Open to New Opportunities 
 
 ---
 
