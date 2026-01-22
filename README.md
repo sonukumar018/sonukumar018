@@ -1,4 +1,4 @@
-## Data Analytics | Excel | Power BI | SQL | Data storytelling | Open to New Opportunities 
+### Data Analytics | Excel | Power BI | SQL | Data storytelling | Open to New Opportunities 
 
 ---
 
@@ -105,4 +105,5 @@ I am a **BE Industrial Engineering & Management student (2022–2025)** with a s
 * **Email:** [sonukumar.360sks@gmail.com](mailto:sonukumar.360sks@gmail.com)
 * **LinkedIn:** [https://linkedin.com/in/sonu-kumar18](https://linkedin.com/in/sonu-kumar18)
 * **GitHub:** [https://github.com/sonukumar018](https://github.com/sonukumar018)
+* **Naukri**  [https://www.naukri.com/mnjuser/profile](https://www.naukri.com/mnjuser/profile)
 
