@@ -8,7 +8,7 @@ I am a **BE Industrial Engineering & Management student (2022–2025)** with a s
 
 ---
 
-## 🧠 Skills
+##  Skills
 
 **Technical Skills**
 
