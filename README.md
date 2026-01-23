@@ -30,7 +30,7 @@ I am a **BE Industrial Engineering & Management student (2022–2025)** with a s
 
 ## 📂 Projects
 
-### 1️⃣ Power BI Sales Dashboard
+### 1️ Power BI Sales Dashboard
 
 **Tools:** Power BI, Power Query, DAX
 **Description:**
@@ -42,7 +42,7 @@ I am a **BE Industrial Engineering & Management student (2022–2025)** with a s
 
 ---
 
-### 2️⃣ Real-Time Web-Enabled Inventory Management using RFID
+### 2️ Real-Time Web-Enabled Inventory Management using RFID
 
 **Tools:** RFID, ESP32, Web Interface
 **Description:**
@@ -54,7 +54,7 @@ I am a **BE Industrial Engineering & Management student (2022–2025)** with a s
   
 ---
 
-### 3️⃣ Simulation of Probabilistic Networks using Arena
+### 3️ Simulation of Probabilistic Networks using Arena
 
 **Tools:** Arena, Python, LINGO
 **Description:**
